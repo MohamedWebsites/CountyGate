@@ -1108,6 +1108,20 @@
   text-decoration: underline;
 }
 
+.call-text {
+  color: var(--grey);
+  text-align: center;
+  margin-top: 40px;
+  font-family: Poppins, sans-serif;
+  font-size: 1.4em;
+  font-weight: 500;
+}
+
+.link-2 {
+  color: var(--blue);
+  text-decoration: none;
+}
+
 @media screen and (max-width: 991px) {
   .top-bar {
     height: auto;
