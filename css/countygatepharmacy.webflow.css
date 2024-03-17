@@ -492,6 +492,7 @@
 }
 
 .learn-more-hours {
+  color: var(--icon-color);
   margin-bottom: 30px;
 }
 
